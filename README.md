@@ -3,3 +3,7 @@ This script is fully self contained, doesn't require external downloading or url
 
 
 Updated version of this https://github.com/foundObjects/pve-nag-buster
+
+
+## TO DO LIST
+I need to add the gnu licensing thing from the original code into the script and give proper credit to the original author.
